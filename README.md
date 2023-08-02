@@ -27,7 +27,7 @@ npm install
 Usage
 Start the server:
 ```bash
-npm index.js
+node index.js
 ```
 The server will start running at http://localhost:3000.
 
