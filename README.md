@@ -13,7 +13,7 @@ This is a basic Node.js API built with Express that performs basic arithmetic op
 1. Clone the repository:
 
 ```bash
-git repo clone AtercesMegassap/Simple-Calculator
+git clone https://github.com/AtercesMegassap/Simple-Calculator
 ```
 Navigate to the project directory:
 ```bash
